@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  background: #83a4b964;
+  font-family: Arial, sans-serif;
+}
+
+.design {
+  display: flex;
+  justify-content: center;   /* center horizontally */
+  align-items: center;       /* center vertically */
+  gap: 20px;
+  min-height: 100vh;
+}

@@ -1,0 +1,14 @@
+.card{
+    /* display: flex; */
+    color: white;
+    background-color: rgb(171, 77, 33);
+    border: 10px;
+}
+.user-image{
+    height: 50vh;
+    width: 75%;
+    padding: 10px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+}

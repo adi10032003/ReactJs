@@ -1,0 +1,26 @@
+.Main-Container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+        background-color: #498cd0;
+
+}
+.container{
+    background-color: white;
+    padding: 40px;
+    text-align: center;
+     border-radius: 12px;
+    box-shadow: 0px 4px 12px rgba(0,0,0,0.2);
+    width: 350px;
+}
+.counterbutton{
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    cursor: pointer;
+}
+.increment button{
+    background-color: green;
+    color: whitesmoke;
+}
